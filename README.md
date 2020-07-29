@@ -10,4 +10,7 @@ This repository witholds my COVID19 visualization projects.
 <img src="https://github.com/koodikoira/CoronaPlots/blob/master/3Ddemo.PNG">
 
 ### UPDATE, added an option to add linear  model in 3D plot, courtesy of <a href="https://aegis4048.github.io/mutiple_linear_regression_and_visualization_in_python"> aegis4048</a>
+#### Old version
 <img src="https://github.com/koodikoira/CoronaPlots/blob/master/3D_linear.PNG">
+#### Improved and fixed version
+<img src="https://raw.githubusercontent.com/koodikoira/CoronaPlots/master/3Dmesh.png">
